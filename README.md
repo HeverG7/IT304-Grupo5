@@ -5,6 +5,7 @@ Repositório contendo o Projeto Final da disciplina - UFRJ/CT
 
 # IT304S: Contratação de Energia para Grandes Consumidores.
 ##Prof. Dr. Luiz Carlos Pereira da Silva
+jujuju
 
 # Definição de ciência de dados 
 
